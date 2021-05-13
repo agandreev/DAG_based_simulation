@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DAG_based_simulation">
+    <output-path>$PROJECT_DIR$/out/artifacts/DAG_based_simulation</output-path>
+    <root id="archive" name="DAG_based_simulation.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="DAG_based_simulation_interface" />
+    </root>
+  </artifact>
+</component>
